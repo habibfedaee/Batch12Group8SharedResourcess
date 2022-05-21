@@ -1,0 +1,90 @@
+*************Group Project************
+
+Requirements:
+The basic structure of code has been pushed to github
+please start working on the project by cloning it on your systems
+Make sure to work in your own branches
+
+There will be one team lead for the project
+he/she  must be a responsible person.
+
+-------------------------Team Lead responsibility------------------------------------------
+
+ 
+1.clone the repository on the system
+2.Make a branch called submain and push it github. (remeber u need to make a commit on this branch in order to push it, just make a commit with some message)!!
+
+
+*******if you are unable to switch branch and git ask you to make commit as there are changes***
+1.git stash -u-->stashes any untracked files or changes
+************************************************************************************************
+
+
+
+
+----------------------TeamMember & Teamlead--------------------------------------------------------
+You will clone the repo from your repo!the link to github will already be esatblished
+so you dont need to create any locla repo or establish any link!!!!!
+
+
+1.clone the repo on your local system
+!!!when u clone you have only the main branch!!!
+!!!please download the Submain branch!!!
+
+2.Create a new branch from subMain and start working .
+!!!make sure u make commits before you switch a branch or upload to github!!!
+
+3.Make commits and upload the code in your OWN BRANCH on GITHUB
+!!!Make sure to make commit only on your own branch and no where else!!!
+
+Once you are done working on a particular task and you want to merge to SubMain
+
+1.Goto github
+2.Open a pull request
+3.assign it to team lead
+
+!!! DONOT MERGE IT YOURSELF AND WAIT FOR TEAM LEAD TO MERGE IT!!!
+
+----------------------TeamMember for Merging--------------------------------------------------------
+Open up the pull request
+review it, make sure the code is correct!!!
+take the person who opened the pull request on zoom!!
+
+You can use either strategy
+1.Review code , resolve conflicts and merge on github 
+OR
+2.Download the branch you want to merge on your system, test it, merge on local and update the remote!
+
+Use what ever you want
+
+
+-----------After Submain has the whole Project--------------------------------------------------------
+
+Only team lead will open a pull request to merge Submain with main branch and assign it to syntax technologies!
+
+
+
+Something improtant if you are merging on local!!!
+
+If u are making a 3 way merge and there is no conflict, git may want you to make a new merge commit on your local!
+it will open a VIM editor!
+you just need to put a commit message and save editor
+
+how to use vim editor :
+press i it will alow u to type in the vim editor
+once you have written the commit message
+press esc and enter :wq
+then press enter
+
+
+
+
+
+
+
+
+
+
+
+
+ 
