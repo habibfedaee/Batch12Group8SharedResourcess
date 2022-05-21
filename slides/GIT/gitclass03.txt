@@ -1,0 +1,48 @@
+************git class 03*********************
+Review::
+tracking our project using GIT
+1.create a new project
+navigate to the location where u want to create your repo
+
+a.create a repo
+git init
+
+b.track src
+git add src
+
+c.add to repo
+git commit -m "message"
+
+
+do I have to do git commit after each modification?
+
+code for calculator in java
+funcitonality of addition--->then u will make a commit
+functionlity of subtraction-->then u will make another commit
+
+exceptions-->funcitonaloty of squareroot(functionality isnt complete)-->add to repo
+
+
+Use case of staging area:
+
+lets add it to staging area
+lets try to resolve after that
+
+
+
+
+git add . --> track all the file (add them to staging area) in the working directory
+
+
+what will be the scenario in which we may need git add . ???
+you may need to track all files in the project...
+
+once in start when u create a new repo:
+git remote -v --> check connection of local with remote
+no output means no connection
+
+git remote add origin URL --> connect the local to remtoe repo
+git branch -M main
+
+
+git push -u origin main-->sync local with remote

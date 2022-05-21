@@ -1,0 +1,57 @@
+************* Git class 01*************
+what is a version?
+a version is an update in your code.
+any changes makes a new version of it.
+
+
+version control system---> VCS  ---> GIT
+
+
+what is GIT?
+Git is a version control tool. 
+It help us to manage our versions efficiently.
+
+Other popular VCS?
+1.GIT
+2.SVN
+3.CVS
+4.Bazaar
+
+
+What is github?
+It is a remote Repository.
+
+what is a Remote repository?
+It is a central place on the cloud(internet) where data is stored and managed.
+
+Advantages of github
+
+
+How do we talk to git?
+using git commands
+
+
+where do we type in these commands?
+for mac user: terminal
+for windows user:git bash
+
+
+
+The first step to use git?
+Tell the location to git where you will be working on the project.
+
+
+Commands:
+
+PWD (print working directory)--> tells us the location of our terminal
+ls(List)--> list all the folders in the current directory
+cd (change directory)--> change the directory to the specified folder
+cd .. --> move one step back in the path
+cd ~  -->  move the terminal to the home directory
+
+
+Home Work:
+1.choose one project of your choice  (you need to have a repo there)
+2. use your terminal to naviagte to that particular location 
+and  share the screen shot of your terminal !!!!!!
+
